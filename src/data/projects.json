@@ -1,0 +1,26 @@
+[
+  {
+    "title": "NITC Attendify",
+    "imageSrc": "attendify",
+    "description": "Streamline attendance tracking with a touch of RFID magic! ",
+    "skills": ["Flutter", "Express", "MySQL", "Arduino"],
+    "demo": "https://github.com/abhinavppradeep/NITCAttendify",
+    "source": "https://github.com/abhinavppradeep/NITCAttendify"
+  },
+  {
+    "title": "GeoHarbor",
+    "imageSrc": "geoharbor",
+    "description": "App developed to process different map formats completly offline.",
+    "skills": ["Flutter", "OpenStreetMap"],
+    "demo": "https://github.com/abhinavppradeep/GeoHarbor",
+    "source": "https://github.com/abhinavppradeep/GeoHarbor"
+  },
+  {
+    "title": "Heritage Safari",
+    "imageSrc": "heritage",
+    "description": "Exploration of India's rich historical monuments.",
+    "skills": ["Flutter", "Express", "Node", "MySQL"],
+    "demo": "https://github.com/abhinavppradeep/HeritageSafari",
+    "source": "https://github.com/abhinavppradeep/HeritageSafari"
+  }
+]

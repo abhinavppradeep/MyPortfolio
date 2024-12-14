@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Senior Executive",
+    "organisation": "GDSC NITC",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["AI/ML domain", "Working on various AI Projects"],
+    "imageSrc": "google"
+  },
+  {
+    "role": "Senior Executive",
+    "organisation": "AI Club NITC",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "experiences": ["Different AI Projects"],
+    "imageSrc": "aiclub"
+  },
+  {
+    "role": "Summer Intern",
+    "organisation": "ISRO (NRSC)",
+    "startDate": "May, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Worked Geo-Spatial Chatbot",
+      "Developed ChatGS mobile app"
+    ],
+    "imageSrc": "isro"
+  }
+]
